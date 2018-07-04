@@ -1,0 +1,23 @@
+{
+  "name": "simple-stomp",
+  "version": "1.0.0",
+  "description": "A very simple implementation of the STOMP protocol. I'm doing it for learning purpose only. It's not complete yet. I only implemented the Connect function till now :|",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed7elmi/simple-stomp.git"
+  },
+  "keywords": [
+    "STOMP"
+  ],
+  "author": "ahmed7elmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed7elmi/simple-stomp/issues"
+  },
+  "homepage": "https://github.com/ahmed7elmi/simple-stomp#readme"
+}
